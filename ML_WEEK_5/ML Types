@@ -1,0 +1,30 @@
+####ML Types####
+
+#Classify the problems as supervised, unsupervised, reinforcement or semi supervised
+ 
+1) Spam filtering: Is an email spam or not
+---> Supervised Learning(Classification)
+
+2) Given a list of customers and information about them, discover groups of similar users. This knowledge can then be used for targeted marketing
+---> UnSupervised Learning(Clustering)
+
+3) Robotics: A robot is in a maze, and it needs to find a way out.
+---> Reinforcement Learning
+
+4) Training an AI for a complex game such as Civilization or Dota
+---> Reinforcement Learning
+
+5) Anomaly detection: Given measurements from sensors in a manufacturing facility, identify anomalies, i.e. that something is wrong
+---> UnSupervised Learning(Clustering)
+
+6) Discover patterns in data such as whenever it rains, people tend to stay indoors. When it is hot, people buy more ice-cream.
+---> UnSupervised Learning (Association)
+
+7) Given information about a house, predict its price
+---> Supervised Learning (Regression)
+
+8) Netflix: Given a user and a movie, predict the rating the user is going to give to the movie
+---> Supervised Learning (Regression)
+
+9) Given an image, output which objects are present in the image
+---> Unsupervised Learning (Clustering)
