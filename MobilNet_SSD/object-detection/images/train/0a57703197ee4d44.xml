@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>0a57703197ee4d44.jpg</filename>
+	<path>/home/admin238/Desktop/images/0a57703197ee4d44.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>snowman</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>35</ymin>
+			<xmax>744</xmax>
+			<ymax>988</ymax>
+		</bndbox>
+	</object>
+</annotation>
